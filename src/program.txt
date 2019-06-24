@@ -1,0 +1,7 @@
+.function main
+pushconst 69
+pushconst 4
+add
+syscall 0
+return
+.endfunction
